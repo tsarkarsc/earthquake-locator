@@ -7,10 +7,10 @@ Users can set various parameters such as the amount of earthquakes to display, s
 ## Screenshots
 
 ### Main View (Parameter Entry)
-![](eq-app-creenshots/main.png)
+![](eq-app-screenshots/main.png)
 
 ### List of Earthquakes
-![](eq-app-creenshots/list.png)
+![](eq-app-screenshots/list.png)
 
 ### WebView displaying OpenStreetMap page
-![](eq-app-creenshots/webview.png)
+![](eq-app-screenshots/webview.png)
