@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Earthquake Locator</string>
+    <string name="title">Earthquake Search</string>
+    <string name="eq_params">Parameters</string>
+    <string name="num_eq">Number of Earthquakes:</string>
+    <string name="order_by">Order By:</string>
+    <string name="start_date">START DATE:</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="order_by_spinner">
+        <item>magnitude</item>
+        <item>date</item>
+    </string-array>
+</resources>
