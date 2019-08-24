@@ -2,7 +2,7 @@
 
 This is an Android app which uses USGS earthquake data (https://earthquake.usgs.gov/) and opens a webview displaying an OpenStreetMap page with the earthquake's co-ordinates. 
 
-Users can set various parameters such as the amount of earthquakes to display, sorting order, and start (set using a date picker dialog).
+Users can set various parameters such as the amount of earthquakes to display, sorting order, and start date (set using a date picker dialog).
 
 ## Screenshots
 
